@@ -1,0 +1,12 @@
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+.user-info {
+    font-size: 1.2em;
+}
+.role {
+    font-weight: bold;
+}
